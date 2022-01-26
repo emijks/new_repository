@@ -1,0 +1,6 @@
+# python template
+__pacache__/
+*.py[cod]
+docker-compose.yaml
+log/
+resources/products.json
